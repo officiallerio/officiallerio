@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="60%" alt="Hello, I'm Anurag. I do open source!" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /></a></p>
 
-<h3> 👨🏻‍💻 About Me </h3>
+## 👨🏻‍💻 About Me
 
 ```jsx
 import React from "react";
