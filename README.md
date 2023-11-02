@@ -11,7 +11,7 @@ function ProfileInfo() {
   return (
     <div>
       <h1>Full Stack Developer</h1>
-      <p>Name: Andrew Talaboc</p>
+      <p>Name: Andrew Talaboc (Lerio)</p>
       <p>Age: 20</p>
       <p>Languages Spoken: English, Filipino</p>
       <p>Thanks for dropping by, hope you find some of my work interesting.</p>
