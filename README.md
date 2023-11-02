@@ -34,11 +34,11 @@ export default ProfileInfo;
 - ✍️ &nbsp; In my free time, I enjoy watching anime and experimenting with the latest design trends as hobbies or side hustles.
 - ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/officiallerio">
     <img align="center" alt="Lerio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallerio&size_weight=0.5&count_weight=0.5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
   </a>
-</div> -->
+</div>
 
 ## 🔧 Technologies & Tools
 
@@ -64,6 +64,8 @@ export default ProfileInfo;
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- ## 🏆 Top Open Source
+## 🏆 Top Open Source
 
-[![LerioTV](https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/officiallerio/LerioTV) -->
+[![LerioTV](https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/officiallerio/LerioTV)
+[![Lerio's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=lerio_portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/officiallerio/lerio_portfolio)
+[![Lerio's README.md](https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=officiallerio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/officiallerio/officiallerio)
