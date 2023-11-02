@@ -36,7 +36,7 @@ export default ProfileInfo;
 
 <div align="center">
   <a href="https://github.com/officiallerio">
-    <img align="center" alt="Lerio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallerio&size_weight=0.5&count_weight=0.5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50%" />
+    <img align="center" alt="Lerio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallerio&size_weight=0.5&count_weight=0.5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&icon_color=F8D866" height="200px" width="50%" />
   </a>
 </div>
 
@@ -70,12 +70,12 @@ export default ProfileInfo;
 
 <div align="center">
   <a href="https://github.com/officiallerio/LerioTV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="100">
   </a>
   <a href="https://github.com/officiallerio/lerio_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=lerio_portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=lerio_portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="100">
   </a>
   <a href="https://github.com/officiallerio/officiallerio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=officiallerio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=officiallerio&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="100">
   </a>
 </div>
