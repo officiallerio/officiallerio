@@ -28,7 +28,7 @@ export default ProfileInfo;
 
 - 🔭 &nbsp; I'm a college student at `PHINMA - Cagayan de Oro College`, pursuing a `Bachelor of Science in Information Technology (BSIT)`.
 - 🤔 &nbsp; I'm currently exploring new technologies, developing software solutions, and creating quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying `Bachelor of Science in Information Technology (BSIT)`.
 - 💼 &nbsp; I aspire to become a full-stack web developer.
 - 🌱 &nbsp; I'm enthusiastic about cyber security and artificial intelligence.
 - ✍️ &nbsp; In my free time, I enjoy watching anime and experimenting with the latest design trends as hobbies or side hustles.
