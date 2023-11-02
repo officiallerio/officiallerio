@@ -4,7 +4,9 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=officiallerio.officiallerio)
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="60%" alt="Hello, I'm Anurag. I do open source!" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /></a></p>
+
+<h3> 👨🏻‍💻 About Me </h3>
 
 ```jsx
 import React from "react";
@@ -23,8 +25,6 @@ function ProfileInfo() {
 
 export default ProfileInfo;
 ```
-
-<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I'm a college student at `PHINMA - Cagayan de Oro College`, pursuing a `Bachelor of Science in Information Technology (BSIT)`.
 - 🤔 &nbsp; I'm currently exploring new technologies, developing software solutions, and creating quick hacks.
