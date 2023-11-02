@@ -4,7 +4,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=officiallerio.officiallerio)
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="60%" alt="Hello, I'm Anurag. I do open source!" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /></a></p>
+<p align="center"><a href="https://github.com/officiallerio"><img width="60%" alt="Hello, I'm Anurag. I do open source!" src="/assets/gif3.gif" /></a></p>
 
 ## 👨🏻‍💻 About Me
 
