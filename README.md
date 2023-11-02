@@ -26,7 +26,7 @@ export default ProfileInfo;
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; 🎓 I'm a college student at `PHINMA - Cagayan de Oro College`, pursuing a `Bachelor of Science in Information Technology (BSIT)`.
+- 🔭 &nbsp; I'm a college student at `PHINMA - Cagayan de Oro College`, pursuing a `Bachelor of Science in Information Technology (BSIT)`.
 - 🤔 &nbsp; I'm currently exploring new technologies, developing software solutions, and creating quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; I aspire to become a full-stack web developer.
