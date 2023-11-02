@@ -32,7 +32,7 @@ export default ProfileInfo;
 - 💼 &nbsp; I aspire to become a full-stack web developer.
 - 🌱 &nbsp; I'm enthusiastic about cyber security and artificial intelligence.
 - ✍️ &nbsp; In my free time, I enjoy watching anime and experimenting with the latest design trends as hobbies or side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 
 ## 🔧 Technologies & Tools
 
