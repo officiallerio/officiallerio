@@ -36,7 +36,7 @@ export default ProfileInfo;
 
 ## 🔧 Technologies & Tools
 
-**Cloud Services:**
+**Services:**
 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logoColor=white&logo=mongodb&labelColor=4DB33D&color=3F3E42)
 ![MYSQL](https://img.shields.io/badge/Database-MYSQL-informational?style=for-the-badge&logo=mysql&logoColor=white&labelColor=orange&color=3F3E42)
