@@ -4,6 +4,8 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=officiallerio.officiallerio)
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /></a></p>
+
 ```jsx
 import React from "react";
 
@@ -21,6 +23,16 @@ function ProfileInfo() {
 
 export default ProfileInfo;
 ```
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; 🎓 I'm a college student at `PHINMA - Cagayan de Oro College`, pursuing a `Bachelor of Science in Information Technology (BSIT)`.
+- 🤔 &nbsp; I'm currently exploring new technologies, developing software solutions, and creating quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; I aspire to become a full-stack web developer.
+- 🌱 &nbsp; I'm enthusiastic about cyber security and artificial intelligence.
+- ✍️ &nbsp; In my free time, I enjoy watching anime and experimenting with the latest design trends as hobbies or side hustles.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 ## 🔧 Technologies & Tools
 
