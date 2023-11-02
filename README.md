@@ -34,6 +34,12 @@ export default ProfileInfo;
 - ✍️ &nbsp; In my free time, I enjoy watching anime and experimenting with the latest design trends as hobbies or side hustles.
 - ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 
+<div align="center">
+  <a href="https://github.com/officiallerio">
+    <img alt="Lerio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallerio&size_weight=0.5&count_weight=0.5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
+  </a>
+</div>
+
 ## 🔧 Technologies & Tools
 
 **Services:**
@@ -60,11 +66,3 @@ export default ProfileInfo;
 ## 🏆 Top Open Source
 
 [![LerioTV](https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/officiallerio/LerioTV)
-
-## Others
-
-<div align="center">
-  <a href="https://github.com/officiallerio">
-    <img alt="Lerio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallerio&size_weight=0.5&count_weight=0.5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
-  </a>
-</div>
