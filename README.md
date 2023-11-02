@@ -60,7 +60,6 @@ export default ProfileInfo;
 ## 🏆 Top Open Source
 
 [![LerioTV](https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/officiallerio/LerioTV)
-[![Lerio's README](https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=officiallerio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/officiallerio/officiallerio)
 
 ## Others
 
