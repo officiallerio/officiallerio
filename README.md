@@ -67,9 +67,9 @@ export default ProfileInfo;
 ## 🏆 My Top Projects
 
 <div align="center">
-  <a href="https://github.com/officiallerio/LerioTV">
+  <!-- <a href="https://github.com/officiallerio/LerioTV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
-  </a>
+  </a> -->
   <a href="https://github.com/officiallerio/lerio_portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=lerio_portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
   </a>
