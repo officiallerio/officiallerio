@@ -1,22 +1,52 @@
-# 🔌Install Steps:
+<!-- Intro  -->
 
-### - 1. You can install from [release](https://github.com/officiallerio/officiallerio/releases/tag/RELEASED)
-### - 2. Unzip to any folder and run exe file 
-### - 3. Click continue 
-### - 4. Enjoy bro:)
+# Hi there 👋
 
-# Requirements🛠:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=officiallerio.officiallerio)
 
-   * Nvidia GTX 650 🆙, higher or equivalent. (AMD Support!)
+<p align="center"><a href="https://github.com/officiallerio"><img width="60%" alt="Hello, I'm Anurag. I do open source!" src="/assets/gif3.gif" /></a></p>
 
-   * And Latest driver version!
+## 👨🏻‍💻 About Me
 
-# 📓Info:
+```jsx
+import React from "react";
 
-* Updated July 11
-* Optimized for all systems (windows 10/11)
+function ProfileInfo() {
+  return (
+    <div>
+      <h1>Full Stack Developer</h1>
+      <p>Name: Lerio</p>
+      <p>Age: 20</p>
+      <p>Languages Spoken: English, Filipino</p>
+      <p>Thanks for dropping by, hope you find some of my work interesting.</p>
+    </div>
+  );
+}
 
+export default ProfileInfo;
+```
 
+- 🔭 &nbsp; I'm a college student at `PHINMA - Cagayan de Oro College`, pursuing a `Bachelor of Science in Information Technology (BSIT)`.
+- 🤔 &nbsp; I'm currently exploring new technologies, developing software solutions, and creating quick hacks.
+- 🎓 &nbsp; Studying `Bachelor of Science in Information Technology (BSIT)`.
+- 💼 &nbsp; I aspire to become a full-stack web developer.
+- 🌱 &nbsp; I'm enthusiastic about cyber security and artificial intelligence.
+- ✍️ &nbsp; In my free time, I enjoy watching anime and experimenting with the latest design trends as hobbies or side hustles.
+- ☕ &nbsp; `mood = 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
+
+<div align="center">
+  <a href="https://github.com/officiallerio">
+    <img align="center" alt="Lerio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallerio&size_weight=0.5&count_weight=0.5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&icon_color=F8D866" height="200px" width="50%" />
+  </a>
+</div>
+
+## 🔧 Technologies & Tools
+
+**Services:**
+
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logoColor=white&logo=mongodb&labelColor=4DB33D&color=3F3E42)
+![MYSQL](https://img.shields.io/badge/Database-MYSQL-informational?style=for-the-badge&logo=mysql&logoColor=white&labelColor=orange&color=3F3E42)
+![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=267fab&color=3F3E42)
 
 **Programming Languages:**
 
@@ -28,5 +58,22 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%252300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🏆 My Top Projects
 
+<div align="center">
+  <!-- <a href="https://github.com/officiallerio/LerioTV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
+  </a> -->
+  <a href="https://github.com/officiallerio/lerio_portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=lerio_portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
+  </a>
+  <a href="https://github.com/officiallerio/officiallerio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=officiallerio&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
+  </a>
+</div>
