@@ -63,17 +63,3 @@ export default ProfileInfo;
 ![MySQL](https://img.shields.io/badge/mysql-%252300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🏆 My Top Projects
-
-<div align="center">
-  <!-- <a href="https://github.com/officiallerio/LerioTV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=LerioTV&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
-  </a> -->
-  <a href="https://github.com/officiallerio/lerio_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=lerio_portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
-  </a>
-  <a href="https://github.com/officiallerio/officiallerio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=officiallerio&repo=officiallerio&border_color=7F3FBF&bg_color=0D1117&title_color=ffffff&text_color=8B949E&icon_color=7F3FBF" height="130">
-  </a>
-</div>
