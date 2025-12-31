@@ -15,8 +15,9 @@ function ProfileInfo() {
   return (
     <div>
       <h1>Full Stack Developer</h1>
-      <p>Name: Lerio</p>
-      <p>Age: 20</p>
+      <p>Name: Andrew</p>
+      <p>Age: 22</p>
+      <p>Status: Fresh Graduate (BSIT)</p>
       <p>Languages Spoken: English, Filipino</p>
       <p>Thanks for dropping by, hope you find some of my work interesting.</p>
     </div>
@@ -26,9 +27,8 @@ function ProfileInfo() {
 export default ProfileInfo;
 ```
 
-- 🔭 &nbsp; I'm a college student at `PHINMA - Cagayan de Oro College`, pursuing a `Bachelor of Science in Information Technology (BSIT)`.
+- 🎓 &nbsp; Recent Graduate of `Bachelor of Science in Information Technology (BSIT)` from `PHINMA - Cagayan de Oro College`.
 - 🤔 &nbsp; I'm currently exploring new technologies, developing software solutions, and creating quick hacks.
-- 🎓 &nbsp; Studying `Bachelor of Science in Information Technology (BSIT)`.
 - 💼 &nbsp; I aspire to become a full-stack web developer.
 - 🌱 &nbsp; I'm enthusiastic about cyber security and artificial intelligence.
 - ✍️ &nbsp; In my free time, I enjoy watching anime and experimenting with the latest design trends as hobbies or side hustles.
